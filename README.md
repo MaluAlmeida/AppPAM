@@ -9,6 +9,6 @@
 
 <h2>Diagrama de Classes</h2>
 
-<a href="https://github.com/JuS0l/App_IlhaBela/wiki/Descrição-do-Aplicativo">Link para o Diagrama de Classes</a>
+<a href="https://github.com/MaluAlmeida/AppPAM/wiki/Diagrama-de-Classes">Link para o Diagrama de Classes</a>
 
 
