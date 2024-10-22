@@ -5,7 +5,7 @@
 
 <h2>Descrição do protótipo </h2>
 
-<a href="https://github.com/JuS0l/App_IlhaBela/wiki/Descri%C3%A7%C3%A3o-do-Desenvolvimento">Link para a descrição das páginas do protótio</a>
+<a href="https://github.com/MaluAlmeida/AppPAM/wiki/Descri%C3%A7%C3%A3o-do-Prot%C3%B3tipo">Link para a descrição das páginas do protótio</a>
 
 <h2>Diagrama de Classes</h2>
 
